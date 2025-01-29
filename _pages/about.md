@@ -31,6 +31,6 @@ Teaching
 * Advanced Synoptic Meteorology (2025 Spring, Nanjing University)
 * LaTeX: zero to pro in 90 minutes (2023 Winter Session, Princeton University)
 
-**Current Group Member**
-
-* Artemis D., Ph.D. (2013-now): Dr. Artemis is the Adjunct Research Assistant in our group. He graduated from Meowssachusetts Institute of Technology (MIT). He specializes in gravity-defying acrobatics and the quantum mechanics of knocking objects off flat surfaces. His groundbreaking paper "The Optimal Time to Wake Humans: A 3 AM Case Study" has been cited by cats worldwide. His current research focuses on the theoretical framework of treating all moving objects as prey, with a particular emphasis on laser pointer dynamics.
+Current Group Member
+------
+* **Artemis (Adjunct Research Assistant)**: Dr. Artemis received his doctoral degree from Meowssachusetts Institute of Technology (MIT). He specializes in gravity-defying acrobatics and the quantum mechanics of knocking objects off flat surfaces. His groundbreaking paper "The Optimal Time to Wake Humans: A 3 AM Case Study" has been cited by cats worldwide. His current research focuses on the theoretical framework of treating all moving objects as prey, with a particular emphasis on laser pointer dynamics.
