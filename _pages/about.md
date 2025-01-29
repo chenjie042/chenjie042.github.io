@@ -17,11 +17,15 @@ I am looking for students and postdocs to join our team, please feel free to rea
 
 Employment
 ------
-
+* Spring 2025:  Tenure-track Assistant Professor, Nanjing University 
+* 2021.8 - 2025.3: CIMES Postdoctoral Fellow, Princeton University and NOAA GFDL
 
 Education
 ------
-
+* Ph.D in Atmospheric Sciences, Purdue University
+* M.S. in Atmospheric Sciences, University of Hawaii at Manoa
+* B.S. in Atmospheric Sciences, Nanjing University of Information Science&Technology
+  
 Teaching
 ------
 Advanced Synoptic Meteorology (2025 Spring, Nanjing University)
