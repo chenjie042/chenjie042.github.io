@@ -21,7 +21,7 @@ repository               : "chenjie042/chenjie042.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   name             : "Jie Chen"
   pronouns         : # example: "she/her"  
   bio              : "A hitchhiker in the Galaxy and a meteorologist on Earth"
