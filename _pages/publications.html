@@ -9,28 +9,25 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+Publication
+------
+**Chen, J.**, K. Gao, L. Harris, and T. Marchok. Do Tropical Cyclone Outer Size Forecasts Improve Simultaneously with Intensity Forecasts? (under GFDL internal review)
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Jing, R., S. Heft-Neal, Z. Wang, **J. Chen**, M. Qiu, I. Opper, Z. Wagner and E. Bendavid (2024). Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. (PNAS, in revision)
+
+**Chen**, J., K. Gao, L. Harris, T. Marchok, L. Zhou and M. Morin (2023) A New Framework for Evaluating Model Simulated Inland Tropical Cyclone Wind Fields. Geophysical Research Letters 50, e2023GL104587.
+
+Walder, J. B. and J.E. Rudzin and B, J. Cruz and **Chen, J.**, Fischer, M., Chen, G.H., Qin N.N. and Tang, B. and Q. Q. Li (2023). A review of Recent Research Progress on the Effect of External Influences on Tropical Cyclone Intensity Change. Tropical Cyclone Research and Review, 12(2).
+
+**Chen, J.** and D. R. Chavas (2023). A Model for the Tropical Cyclone Wind Field Response to Idealized Landfall. J. Atmos. Sci., 80,1163-1176.
+
+**Chen, J.** and D. R. Chavas (2021). Can existing theory predict the response of tropical cyclone intensity to idealized landfall? J. Atmos. Sci., 78(10), pp.3281–3296.
+
+Chavas D. R. and **J. Chen** (2020). Tropical cyclones could last longer after landfall in a warming world. Nature, 587, pp.200-201. (Invited commentary, News&Views)
+
+**Chen, J.** and D. R. Chavas (2020). The Transient Responses of An Axisymmetric Tropical Cyclone to Instantaneous Surface Roughening and Drying. J. Atmos. Sci.,77(8), pp.2807–2834.
+
+Xian, S., Feng, K., Lin, N., Marsooli, R., Chavas, D., **Chen, J.** and Hatzikyriakou, A. (2018). Brief communication: Rapid assessment of damaged residential buildings in the Florida Keys after Hurricane Irma. Natural Hazards and Earth System Sciences, 18(7), pp.2041-2045.
 
 
 
