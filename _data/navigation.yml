@@ -6,15 +6,15 @@
 
 main:
   - title: "Research"
-    url: chenjie042.github.io/publications/
+    url: chenjie042.github.io/_publications/
 
   - title: "Group"
-    url: chenjie042.github.io/talks/    
+    url: chenjie042.github.io/_talks/    
 
   - title: "Teaching"
-    url: chenjie042.github.io/teaching/    
+    url: chenjie042.github.io/_teaching/    
         
   - title: "Blog Posts"
-    url: chenjie042.github.io/year-archive/
+    url: chenjie042.github.io/_year-archive/
 
  
