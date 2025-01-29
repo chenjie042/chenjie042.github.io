@@ -17,7 +17,7 @@ I am looking for students and postdocs to join our team, please feel free to rea
 
 Employment
 ------
-* Spring 2025:  Tenure-track Assistant Professor, Nanjing University 
+* Spring 2025:  Assistant Professor, Nanjing University 
 * 2021.8 - 2025.3: CIMES Postdoctoral Fellow, Princeton University and NOAA GFDL
 
 Education
