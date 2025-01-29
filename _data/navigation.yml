@@ -6,15 +6,15 @@
 
 main:
   - title: "Research"
-    url: /_publications/
+    url: /publications/
 
   - title: "Group"
-    url: /_talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /_teaching/    
+    url: /teaching/    
         
   - title: "Blog Posts"
-    url: /_year-archive/
+    url: /year-archive/
 
  
