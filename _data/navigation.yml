@@ -7,10 +7,7 @@
 main:
 
   - title: "Research"
-    url: /publications/
-
-  - title: "Group"
-    url: /talks/    
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    
