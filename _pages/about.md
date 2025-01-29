@@ -24,8 +24,9 @@ Education
 
 Teaching
 ------
-*Advanced Synoptic Meteorology (2025 Spring, Nanjing University)
-*LaTeX: zero to pro in 90 minutes (2023 Winter Session, Princeton University)
+Advanced Synoptic Meteorology (2025 Spring, Nanjing University)
+
+LaTeX: zero to pro in 90 minutes (2023 Winter Session, Princeton University)
 
 Publication
 ------
